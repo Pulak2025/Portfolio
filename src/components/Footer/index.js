@@ -103,7 +103,7 @@ function Footer() {
           {/* <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon> */}
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2025 Pulak Bhattacharjee. All rights reserved. Made by SM
+          &copy; 2025 Pulak Bhattacharjee. All rights reserved. Made by Sukamal
         </Copyright>
 
       </FooterWrapper>
